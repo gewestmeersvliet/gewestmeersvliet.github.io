@@ -141,6 +141,7 @@ a {
 }
 
 #stickybutton {
+    cursor: pointer;
     border-radius: 100px;
     padding: 0px!important;
     position: fixed;
@@ -153,17 +154,20 @@ a {
 }
 
 #stickybutton:hover {
+    cursor: pointer;
     background-color: white;
     color: red;
 }
 
 #stickybutton:hover svg{
+    cursor: pointer;
     background-color: white;
     color: red;
     fill:red;
 }
 
 #stickybutton svg {
+    cursor: pointer;
     margin: 12px;
 }
 
