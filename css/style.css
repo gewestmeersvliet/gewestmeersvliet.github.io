@@ -183,6 +183,7 @@ a {
 
 .modal {
     padding-right: 0px!important;
+    transition: opacity .3s ease, transform .3s ease!important;
 }
 
 .modal-content {
